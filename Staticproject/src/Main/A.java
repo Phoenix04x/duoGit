@@ -6,6 +6,7 @@ public class A {
 	
 	static void methode1() {
 		System.out.println("methode1 = "+ a);
+		System.out.println( " modif roms ");
 	}
 	
 	void methode2() {
