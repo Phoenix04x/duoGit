@@ -6,8 +6,8 @@ public class A {
 	
 	static void methode1() {
 		System.out.println("methode1 = "+ a);
-		System.out.println("develop");
-	}
+
+		System.out.println( " modif roms ");
 	
 	void methode2() {
 		System.out.println("methode 2 = "+ a + " " + b);
